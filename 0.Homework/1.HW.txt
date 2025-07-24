@@ -1,0 +1,239 @@
+lecture 07:
+In this Video, we are going to solve LeetCode Problems:
+ - Reverse Integer [https://leetcode.com/problems/reverse... ]
+ - Complement base 10 Integer [https://leetcode.com/problems/complem... ]
+ - Power of Two [https://leetcode.com/problems/power-o... ]
+
+ lecture 9;
+ find the unique in a array;
+ find the duplicate ;
+ two arrays intersection as output;
+ reverse an Array;
+ find the sum of of elements in array taking array as input;
+
+lecture 10:
+In this Video, we are going to solve LeetCode /CodeStudioProblems:
+- Find Unique element [https://bit.ly/3y01Zdu ] Hint: {Count store krwa k Compare kro(0,1)}
+- Duplicates in Array [https://bit.ly/3dm6bdZ ]
+- Array Intersection [https://bit.ly/3Il0c7n ]
+- Pair Sum [https://bit.ly/3EwlU6e ]
+- Triplet sum [https://bit.ly/3GbgVs3] {Hint; Run three loops for Triplet and (sum them & Compare)deal with TLE}
+- Sort 0 1 2 [https://bit.ly/3DfQW0s]
+
+Howework question:
+Ques1: https://leetcode.com/problems/unique-...
+Ques2: https://leetcode.com/problems/find-al... {Hint: Use the given Constrain }
+Ques3: https://bit.ly/3GbgVs3 
+Ques4: https://bit.ly/3DfQW0s 
+
+lecture 13:
+Question Links:
+- First/Last Occurrence of an Element in array: https://bit.ly/3Ioexjh 
+- Peak in a Mountain Array:https://leetcode.com/problems/peak-in... 
+
+Homework Questions: 
+- Find Pivot in an Array: https://leetcode.com/problems/find-pi... 
+
+
+lecture 14:
+Question Links:
+  - Find Pivot in an array: 
+  - Search in a rotated & Sorted array:  https://bit.ly/3rEVSK7
+  - Peak in a Mountain Array: https://leetcode.com/problems/peak-in... 
+  - Square Root of an Integer: https://bit.ly/3Dm4hEE 
+
+
+lecture 15:
+Question Links:
+- Book Allocation Problem: https://bit.ly/3GiCqY0 
+- Aggressive Cows: https://bit.ly/3dkuQ2B 
+- Painter’s Partition Problem: https://bit.ly/31v3Jiy 
+- EKO SPOJ: https://www.spoj.com/problems/EKO/ 
+- PRATA SPOJ: https://bit.ly/3ExHXt5 
+
+Homework Questions: 
+- Painter’s Partition Problem: https://bit.ly/31v3Jiy 
+- EKO SPOJ: https://www.spoj.com/problems/EKO/  
+- PRATA SPOJ: https://bit.ly/3ExHXt5  
+
+
+lecture 16:
+Question Links:
+- Selection Sort: https://bit.ly/3DrsGsv 
+
+Weekly Contest 1;
+Contest Link: https://bit.ly/31zFssd
+
+
+lecture 17:
+Question Links:
+- Bubble Sort: https://bit.ly/3pvCTz9 (change range experiment)
+- GFG Quiz: https://www.geeksforgeeks.org/quiz-bu... 
+
+lecture 18:
+Question Links:
+- Insertion Sort: https://bit.ly/3EstWN7 
+
+
+lecture 20;
+
+
+Question Links:
+- Reverse an Array: https://bit.ly/3EOyAFz 
+- Merge 2 sorted arrays:https://leetcode.com/problems/merge-s... 
+- Move zeroes to end:https://leetcode.com/problems/move-ze... 
+
+
+lecture 21;
+
+
+Question Links:
+- Rotate arrays: https://leetcode.com/problems/rotate-...
+- Check if rotated and sorted array: https://leetcode.com/problems/check-i...
+- Add arrays: https://bit.ly/3DXfsDZ 
+
+
+Weekly Contest 2;
+Contest 2  Link: https://bit.ly/3dUUrPK
+
+
+
+lecture 22;
+
+Question Links:
+- Length of String
+- Reverse a String: https://leetcode.com/problems/reverse... 
+- Check Palindrome:https://bit.ly/3E55FvF 
+- Valid Palindrome : https://leetcode.com/problems/valid-p... 
+- Reverse words: https://leetcode.com/problems/reverse... 
+- Maximum occurring character: https://practice.geeksforgeeks.org/pr... 
+- Remove all occurrences of substring: https://bit.ly/3sfP71Q 
+- Remove all adjacent duplicates: https://leetcode.com/problems/remove-... 
+- String Compression: https://leetcode.com/problems/string-... 
+- Permutation in Strings: https://leetcode.com/problems/permuta...
+- Remove adjacent Duplicates: https://leetcode.com/problems/remove-... 
+
+  How string stores its data ;
+  Stack Overflow Link: https://stackoverflow.com/questions/4... 
+
+  lecture 23;
+
+  Question Links:
+- Wave Print: https://bit.ly/329Le3K
+- Spiral Print: https://leetcode.com/problems/spiral-...
+- Rotate a Matrix by 90 degrees: https://leetcode.com/problems/rotate-... 
+- Search in a 2D Matrix I LeetCode: https://leetcode.com/problems/search-... 
+- Search in a 2D Matrix II LeetCode: https://leetcode.com/problems/search-... 
+
+
+lecture 24;
+
+
+GCD reference: https://www.codingninjas.com/blog/202... 
+
+Modular Arithmetics Reference: https://codeforces.com/blog/entry/72527 
+
+Question Links:
+- Count primes:https://leetcode.com/problems/count-p... 
+- Modular Exponentiation: https://bit.ly/3peOT9i 
+
+lecture 25;
+Practice Pointers Questions: https://www.codingninjas.com/codestud... 
+
+lecture 26;
+Practice Pointers Questions: https://www.codingninjas.com/codestud... 
+
+lecture 27;
+Practice Pointers Questions: https://bit.ly/3Hh9KyZ
+and MCQ questions solve in lecture video.
+
+lecture 28;
+CodeStudio Dynamic Memory Reference: https://bit.ly/3ewm1TF
+
+lecture 29;
+CodeStudio Dynamic Memory Reference: https://bit.ly/3ewm1TF
+jaggered array create
+
+lecture 30;
+CodeStudio (constant variables) Reference: https://bit.ly/3ewm1TF
+GFG Macros Article: https://www.geeksforgeeks.org/macros-...
+
+lecture 31;
+Study recursion from CodeStudio
+CodeStudio  Reference: https://www.codingninjas.com/codestud...
+
+lecture 32;
+Draw recursion tree and func call stack in notebook
+Question Links: 
+- Fibonnacci Series: https://leetcode.com/problems/fibonac... 
+- Climb Stairs: https://bit.ly/32VA96H
+
+lecture 33;
+Binary questions from lec 12-15 solve using recursion 
+Question Links: 
+- Binary Search: https://bit.ly/3eQrSna
+
+lecture 34;
+single pointer approach in recursion ;
+selection sort & insertion sort in recursion ;
+Question Links: 
+- Reverse Strings: https://bit.ly/3r8UJcf 
+- Check Palindrome: https://bit.ly/3FWNEBB
+
+lecture 35;
+inversion count 
+application of merge sort in geegforgeek
+time complexity 0(nlogn)- how ?(spend 3-4hr its vvimp)
+
+
+Contest 3  Link: https://bit.ly/3q19gHC 
+
+Question Links: 
+- Merge Sort: https://bit.ly/3JNFk9u
+
+
+lecture 36;
+reaad the below & notebook h.w
+GFG Article: https://www.geeksforgeeks.org/quick-s...
+
+Question Links: 
+- Quick Sort: https://bit.ly/3qZ6LEC
+
+lecture 37;
+solve them use bits ....
+Question Links: 
+- Subsets:https://leetcode.com/problems/subsets/
+- Subsequences: https://bit.ly/33hi3MB
+
+
+lecture 38;
+- Phone Keypad Question: https://leetcode.com/problems/letter-...
+
+lecture 39;
+Question Links: 
+- Permutations Questions: https://leetcode.com/problems/permuta...
+
+lecture 40;
+Question Links: 
+- Rat in a Maze Problem: https://practice.geeksforgeeks.org/pr...
+complete the dry run in note 
+
+lecture 41;
+Previously solved Q's T.C...
+CodeStudio MCQ reference: https://www.codingninjas.com/codestud... 
+
+lecture 42;
+CodeStudio OOPS Reference: https://www.codingninjas.com/codestud...
+Topics to self-study in notebook..
+
+lecture 43;
+remaining topics along with 4pillars CodeStudio OOPS Reference: https://www.codingninjas.com/codestud...
+For depth study OOPs: visit- Love Babbar OOps cheatsheet webpage ...
+
+lecture 44;
+
+
+
+
+
+
